@@ -1,0 +1,89 @@
+body{	color:black;
+		font-family:arial;
+		font-size:14px;
+		background:#69ADDC;	}
+
+.main{  width:960px;
+		margin:25px auto 0px auto;
+		/*background-color:black;
+		border:1px solid wheat;*/}
+
+#image{height:87px;}
+#front{ background-color:#FFDEAD;;
+		width:960px;
+		margin: 13px auto;
+border: 1px solid red;}
+
+#login{     width:500px;
+		    list-style:none;
+		    background-color:black;
+		    margin: 10px 0px 0px 0px;
+			padding: 20px 0px 0px 0px;
+			/*border-right:1px solid red;*/}
+		
+#register{  width:590px;
+		    list-style:none;
+		    background-color:orange;
+		    margin: 0pxpx 0px 0px 0px;
+			padding: 20px 0px 0px 0px;
+			border-left:1px solid red;
+		  }
+#username{margin:0px 0px 0px 36px;
+			width : 156px;
+				height:21px;
+		-webkit-box-sizing: border-box; 
+		   -moz-box-sizing: border-box; 
+			box-sizing: border-box;}	
+#pass{margin: 7px 0px 5px 35px;
+		width : 156px;
+				height:21px;
+		-webkit-box-sizing: border-box; 
+		   -moz-box-sizing: border-box; 
+			box-sizing: border-box;}
+#logs{		padding-left: 5px;
+			margin-left: 277px;
+			width : 60px;
+				height:21px;
+		-webkit-box-sizing: border-box; 
+		   -moz-box-sizing: border-box; 
+			box-sizing: border-box;}
+#fname{margin: 0px 0px 5px 71px;
+		width : 156px;
+				height:21px;
+		-webkit-box-sizing: border-box; 
+		   -moz-box-sizing: border-box; 
+			box-sizing: border-box;}
+#sname{margin: 0px 0px 0px 0px;
+		width : 156px;
+				height:21px;
+		-webkit-box-sizing: border-box; 
+		   -moz-box-sizing: border-box; 
+			box-sizing: border-box;}
+#mail{margin: 4px 0px 5px 105px;
+		width : 156px;
+				height:21px;
+		-webkit-box-sizing: border-box; 
+		   -moz-box-sizing: border-box; 
+			box-sizing: border-box;}
+#fpass{margin: 0px 0px 5px 74px;
+		width : 156px;
+				height:21px;
+		-webkit-box-sizing: border-box; 
+		   -moz-box-sizing: border-box; 
+			box-sizing: border-box;}
+#cpass{margin: 0px 0px 5px 14px;
+		width : 156px;
+				height:21px;
+		-webkit-box-sizing: border-box; 
+		   -moz-box-sizing: border-box; 
+			box-sizing: border-box;}
+#sel{margin: 0px 0px 5px 73px;}
+#males{margin: 0px 0px 5px 106px;}
+#females{margin: 0px 0px 5px 14px;}
+#check{margin: 20px 0px 5px 0px;}
+#reg{margin: 30px 0px 0px 352px;
+			width : 60px;
+				height:21px;
+		-webkit-box-sizing: border-box; 
+		   -moz-box-sizing: border-box; 
+			box-sizing: border-box;}
